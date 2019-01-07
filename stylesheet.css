@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'WS-Serif';
+    src: url('ws-serif-Medium.woff2') format('woff2'),
+        url('ws-serif-Medium.woff') format('woff'),
+        url('ws-serif-Medium.svg#ws-serif-Medium') format('svg');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WS-Mono';
+    src: url('ws-mono.woff2') format('woff2'),
+        url('ws-mono.woff') format('woff'),
+        url('ws-mono.svg#ws-mono') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'WS-Serif';
+    src: url('ws-serif-MediumItalic.woff2') format('woff2'),
+        url('ws-serif-MediumItalic.woff') format('woff'),
+        url('ws-serif-MediumItalic.svg#ws-serif-MediumItalic') format('svg');
+    font-weight: 500;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ws-sans';
+    src: url('ws-sans-BoldItalic.woff2') format('woff2'),
+        url('ws-sans-BoldItalic.woff') format('woff'),
+        url('ws-sans-BoldItalic.svg#ws-sans-BoldItalic') format('svg');
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ws-sans';
+    src: url('ws-sans-Bold.woff2') format('woff2'),
+        url('ws-sans-Bold.woff') format('woff'),
+        url('ws-sans-Bold.svg#ws-sans-Bold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'ws-sans';
+    src: url('ws-sans-RegularItalic.woff2') format('woff2'),
+        url('ws-sans-RegularItalic.woff') format('woff'),
+        url('ws-sans-RegularItalic.svg#ws-sans-RegularItalic') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'ws-sans';
+    src: url('ws-sans-Regular.woff2') format('woff2'),
+        url('ws-sans-Regular.woff') format('woff'),
+        url('ws-sans-Regular.svg#ws-sans-Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
